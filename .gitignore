@@ -29,11 +29,15 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# keys and secrets
+.env.key
+.env.secret
+sa-keys/terraform/*
+
 # turbo
 .turbo
 
 # terraform ignore template
-
    
 # Local .terraform directories
 **/.terraform/*
