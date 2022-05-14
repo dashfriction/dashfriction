@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/18da7007ab7afc9d14b71c395bfaa535103fd4eb.svg" width="750">
+  <img src="https://repobeats.axiom.co/api/embed/18da7007ab7afc9d14b71c395bfaa535103fd4eb.svg" width="850">
 </p>
 
 <p align="center">
