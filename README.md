@@ -1,22 +1,29 @@
 <p align="center" >
-  <img src="https://user-images.githubusercontent.com/65465380/168427987-fd84e8f5-2557-46cf-b65e-9d6b708d940c.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/65465380/168427987-fd84e8f5-2557-46cf-b65e-9d6b708d940c.png" width="450" />
 </p>
 
-[![codebeat badge](https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36)](https://codebeat.co/a/sean-knowles/projects/github-com-dashfriction-turbo-monorepo-main)
+<p justify="center">
+  <img src="https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36" width="100">
+</p>
 
 # Turborepo
 
-All project assets are managed within this single repo.
+All project assets are managed within this single monorepo.
 
 ## What's inside?
 
 This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It includes the following packages/apps:
 
-### Apps and Packages
+### Apps
 
-- `docs`: a [Next.js](https://nextjs.org) app
-- `web`: another [Next.js](https://nextjs.org) app
+- `backend`: an [Express.js](https://expressjs.com/) Typescript app
+- `client-admin`: an [React.js 18](https://reactjs.org/) Typescript app
+- `terraform`: [Terraform Infrastructure](https://www.terraform.io/) Google Cloud Platform hcl app
+- `terratest`: [Terratest](https://terratest.gruntwork.io/) Golang TF infrastructure testing app
+
+### Packages
 - `ui`: a stub React component library shared by both `web` and `docs` applications
+- `machines`: an xstate state machine library shared by both `client-admin` and `backend` applications
 - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
@@ -81,3 +88,6 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/core-concepts/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+### Advocates of Google Cloud
+  <img src="https://user-images.githubusercontent.com/65465380/168428800-7e3aea71-843d-46f5-8c9e-e744243cbc53.png" width="100" />
