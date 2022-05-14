@@ -2,9 +2,14 @@
   <img src="https://user-images.githubusercontent.com/65465380/168427987-fd84e8f5-2557-46cf-b65e-9d6b708d940c.png" width="450" />
 </p>
 
-<p justify="center">
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/18da7007ab7afc9d14b71c395bfaa535103fd4eb.svg" width="750">
+</p>
+
+<p align="center">
   <img src="https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36" width="100">
 </p>
+
 
 # Turborepo
 
@@ -88,6 +93,12 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/core-concepts/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+- [Caching](https://turborepo.org/docs/core-concepts/caching)
 
-### Advocates of Google Cloud
-  <img src="https://user-images.githubusercontent.com/65465380/168428800-7e3aea71-843d-46f5-8c9e-e744243cbc53.png" width="100" />
+
+
+### Providers
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65465380/168428800-7e3aea71-843d-46f5-8c9e-e744243cbc53.png" width="100" /><img src="https://user-images.githubusercontent.com/65465380/168429492-f9b01272-f682-4098-9178-bc07a65e94f2.png" width="180" />
+</p>
+
