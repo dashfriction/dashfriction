@@ -1,6 +1,10 @@
 import * as React from "react";
 import { Button } from "@mantine/core";
 
-export const UIButton = () => {
-  return <Button>Settings</Button>;
+type Props = {
+  onClick: () => void;
+};
+
+export const UIButton = ({ onClick }: Props) => {
+  return <Button onClick={onClick}>Settings</Button>;
 };

@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "email": "john.doe5@gmail.com",
+      "password": "hard-to-guess",
+      "externalId": "customerIdInExternalSystem",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "15412334363",
+      "role": "customer"
+    }
+  ]
+}
