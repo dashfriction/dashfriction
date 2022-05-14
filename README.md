@@ -95,9 +95,6 @@ Learn more about the power of Turborepo:
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
 - [Caching](https://turborepo.org/docs/core-concepts/caching)
 
-
-
-### Providers
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65465380/168428800-7e3aea71-843d-46f5-8c9e-e744243cbc53.png" width="100" /><img src="https://user-images.githubusercontent.com/65465380/168429492-f9b01272-f682-4098-9178-bc07a65e94f2.png" width="180" />
 </p>
