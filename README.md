@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/18da7007ab7afc9d14b71c395bfaa535103fd4eb.svg" width="850">
+  <img src="https://repobeats.axiom.co/api/embed/d85147a1b2aae9a6ffbc75443885d45e97ec119e.svg" width="850">
 </p>
 
 ## Status
