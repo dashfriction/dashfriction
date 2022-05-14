@@ -1,8 +1,12 @@
+<p align="center" >
+  <img src="https://user-images.githubusercontent.com/65465380/168427987-fd84e8f5-2557-46cf-b65e-9d6b708d940c.png" width="400" />
+</p>
+
 [![codebeat badge](https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36)](https://codebeat.co/a/sean-knowles/projects/github-com-dashfriction-turbo-monorepo-main)
 
-# Turborepo starter with npm
+# Turborepo
 
-This is an official starter turborepo.
+All project assets are managed within this single repo.
 
 ## What's inside?
 
