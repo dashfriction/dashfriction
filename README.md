@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36)](https://codebeat.co/a/sean-knowles/projects/github-com-dashfriction-turbo-monorepo-main)
+
 # Turborepo starter with npm
 
 This is an official starter turborepo.
