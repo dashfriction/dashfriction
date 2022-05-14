@@ -6,10 +6,8 @@
   <img src="https://repobeats.axiom.co/api/embed/18da7007ab7afc9d14b71c395bfaa535103fd4eb.svg" width="850">
 </p>
 
-<p align="center">
-  <img src="https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36" width="100">
-</p>
-
+## Status
+<img src="https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36" width="100">
 
 # Turborepo
 
