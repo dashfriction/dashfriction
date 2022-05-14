@@ -12,7 +12,10 @@
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "test": "vitest --coverage",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "tf:init": "terraform init -chdir apps/terraform",
+    "tf:dep": "terraform deploy ./apps/terraform",
+    "tf:des": "terrform destroy -chdir ./apps/terraform"
   },
   "devDependencies": {
     "c8": "^7.11.2",
