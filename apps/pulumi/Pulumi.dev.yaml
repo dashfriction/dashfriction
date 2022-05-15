@@ -1,5 +1,5 @@
 config:
-  gcp:credentials: ./gcp-dev-key.json
+  gcp:credentials: ./sa-keys/gcp-dev-key.json
   gcp:project: dashfriction-pulumi-dev
   gcp:region: europe-west2
   gcp:zone: europe-west2-a
