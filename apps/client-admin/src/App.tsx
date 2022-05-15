@@ -1,25 +1,22 @@
-import { useMachine } from "@xstate/react";
-import { UIButton } from "ui";
-
-import "./App.css";
-import { counterMachine } from "machines";
+import { Link, Outlet, ReactLocation, Router } from "@tanstack/react-location";
+import { routes } from "./routes";
+import "./index.css";
 
 function App() {
-  const [state, send] = useMachine(counterMachine);
-
-  const getCustomer = async () => {
-    const res = await (await fetch("http://localhost:5000/customers")).json();
-
-    console.log(res);
-  };
+  const location = new ReactLocation();
 
   return (
-    <div className="App">
-      <UIButton onClick={() => getCustomer()} />
-      <section>
-        <output>{state.context.count}</output>
-        <button onClick={() => send("INCREMENT")}> Count</button>
-      </section>
+    <div>
+      <Router routes={routes} location={location}>
+        <div>
+          <Link to="/">Home</Link>
+          <Link to="/about">About </Link>
+          <h1 className="bg-red-500">Hello world!</h1>
+        </div>
+        <div>
+          <Outlet />
+        </div>
+      </Router>
     </div>
   );
 }
