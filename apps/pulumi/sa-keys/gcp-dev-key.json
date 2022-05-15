@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dashfriction-pulumi-dev",
+  "private_key_id": "70ac81fc13bfcbca68569348c8ba98ed314fea30",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDzmHLQRAd1sdw1\na3vmCVc1vnhNZ/U45WHx2trgldTgkSqY8dWlfGZnnc7WBnS2JvbEvnmvQasAUMfd\n8jzksvyR+XMd0f72YucW1HygTCatbLTPtaDusOseC6v9zAk+AAgiERkEa5E19nJA\ne1BfM+h0pLFw0PNKLRPUjew8dNKDXwyfDVyZ52rYyVYKKXe8DPorZaRp40mQ1rdK\n0gSh9lf25mtnICctzwUAPHvxIGLqoLRIiWaw2e1Y1YrwJ4tTyxIPd32iiTv4Xu95\nfwSjDbuBuQr2X6rfqLQh0preCv1QPXLxGfEEiKroRkIJGFKlb/0m1tONSVowamuG\nCxWVltvLAgMBAAECggEATP56B8cA3pwFoOLkyfxY0tVtu/WoZj/meeX1ebgSDZsE\nrkv9/ez4hzazeiWXPT3KkLwtxQ3KCXL/AXF/+r9yIoeIcbv+zQzMwwQNkjMPpJAw\nBFkB0YAdCKWiyrjzkOO8rlveHu4K+1X2ndf8OuMyza+CoEiDJYZi9rOXIDLCmR/T\nghOuC/U+N/6WRjZs9G5opMfEcXM0MWs6QgteYI4tJgY/4KjhYusMunKaTKxaIWwR\nXjx3cnjfHszQX1TL1SreDWJN67Hg3bgkxkZ/jeXopvdO4RNFGSPkFMUWCl6oBm+u\n9LApB7jJdgg72+Ve7oc0jl9bezAYJowNmWbr6C5AgQKBgQD9R7DJgxXEzMmppx7/\nQgrK6lPICCQSk3wGqXPUar//wgYodB9nq+oB/HTmn1DW3ioZbL2Y9XuZQa+1dqEg\nbU/oFmlByQrrieesjDSANRtw7bOKfxFtG6KK6QHxYhQOrGfMnikzm5XVTKOwIcqp\nK1sl6fuLUzk7NCexhZdoXzTiSwKBgQD2NiIsSIcDdKJhyY1YUL0xP2vHS6kVzKaB\n00tvb71HOswIKTdovBdtKwauxLsA5RScX/p5JRwnXnztoKmOktSGh1jNGVVs5FQl\nFQhaHxfycGFNeFxFrrSvVypcwc/2Arucl9/nqK7/EqttF5dh70/4DG5Oh3Han2V7\np1phki38gQKBgGlb7yCEVQPepGzcRjqswEyUmXF2YXsQuuESkEpmdaPwlBsz4vR/\nQQK+f+qHj1syY5Tb9Sqxw06HUo5L4M7aagkDeZmSBebhIOxYDmbesKGTX8JXBWq7\nuivKrbI5uFo6QZuOl1kOeY+XJ+hWxjUFAg+Ne8QDRKVqFrDz/329TQRtAoGACesE\nVWRWi/0WzXmhB/24oVM8tDqIBSjJTFGGqGaH6Wak8W83nDB3gR5Klp+2KMMRoXr8\nTAUCrVNRFQFz0xp3FTQ+j4SFvG02NogyXe8Ct/Fu+f/vN59iB+4q9rGX/wD9LcGw\nc1SIOB44aZyZrIhHYGafyuoJ3BSvsdt7+JI66AECgYEA7jmvZFkKlmsE30pkzbbF\nUAyLmHn1geSlthTsqR6yZmAl/by+6I6NbbdUyzt3zTd+bYnuqQyM6nSVHvxPI0Ob\nYjTLaBUC4xzKa/y8XPZDhD698YuNEHXVg9AY8mevyOVLuwTX4La6MINjaxwEuIQk\n/B+Dn65CvOo7Io7sCEpk+gk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pulumi@dashfriction-pulumi-dev.iam.gserviceaccount.com",
+  "client_id": "108056173671024456836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pulumi%40dashfriction-pulumi-dev.iam.gserviceaccount.com"
+}
