@@ -1,4 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+gcp-dev-keys.json
+gcp-staging-keys.json
+gcp-prod-keys.json
+
+./sa-keys/**
+/sa-keys/*
 
 # dependencies
 node_modules
@@ -29,11 +35,15 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# keys and secrets
+.env.key
+.env.secret
+sa-keys/terraform/*
+
 # turbo
 .turbo
 
 # terraform ignore template
-
    
 # Local .terraform directories
 **/.terraform/*
