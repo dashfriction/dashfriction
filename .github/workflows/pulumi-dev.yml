@@ -10,10 +10,11 @@ on:
       - dev
     paths:
       - './apps/pulumi/**/*'
-
+      
 # These are the environment variables that jobs in the workflow have access to.
 # By defining them here, all jobs/steps will have access to these variables.
 env:
+  GOOGLE_CREDENTIALS: ${{secrets.GOOGLE_CREDENTIALS}}
   # IMPORTANT! You must map the env vars for your cloud provider here even though you add them as secrets
   # to this repository.
   # See the setup page for cloud providers here: https://www.pulumi.com/docs/intro/cloud-providers/.
