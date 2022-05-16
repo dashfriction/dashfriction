@@ -1,7 +1,7 @@
 import * as gcp from "@pulumi/gcp";
 
 export const projectModule = () => {
-  const apiServices = [
+  const apis = [
     "apigateway.googleapis.com",
     "servicecontrol.googleapis.com",
     "bigquery.googleapis.com",
@@ -21,7 +21,7 @@ export const projectModule = () => {
     "secretmanager.googleapis.com",
   ];
 
-  const activeApis = apiServices.map(
+  const services = apis.map(
     (name) =>
       new gcp.projects.Service(name, {
         project: "dashfriction-pulumi-dev",
@@ -30,6 +30,6 @@ export const projectModule = () => {
   );
 
   return {
-    activeApis,
+    services,
   };
 };
