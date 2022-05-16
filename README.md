@@ -7,7 +7,7 @@
 </p>
 
 ## Status
-<img src="https://codebeat.co/badges/812129c8-2a70-43f5-8ca4-ed0c9a0dec36" width="100">
+<img src="https://codebeat.co/badges/5a111fb3-c803-4a6b-bbeb-6fb11fe91828" width="120">
 
 # Turborepo
 
