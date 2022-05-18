@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "email": "1.doe5@gmail.com",
+      "password": "hard-to-guess",
+      "externalId": "customerIdInExternalSystem",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "15412334363",
+      "role": "customer"
+    },
+    {
+      "email": "2.doe5@gmail.com",
+      "password": "hard-to-guess",
+      "externalId": "customerIdInExternalSystem",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "15412334363",
+      "role": "customer"
+    },
+    {
+      "email": "3.doe5@gmail.com",
+      "password": "hard-to-guess",
+      "externalId": "customerIdInExternalSystem",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "15412334363",
+      "role": "customer"
+    }
+  ]
+}

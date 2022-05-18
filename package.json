@@ -12,7 +12,9 @@
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "test": "vitest --coverage",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "p:prev": "pulumi up --cwd ./apps/pulumi",
+    "p:up": "pulumi preview --cwd ./apps/pulumi"
   },
   "devDependencies": {
     "c8": "^7.11.2",
@@ -25,17 +27,5 @@
     "node": ">=14.0.0"
   },
   "packageManager": "npm@8.5.5",
-  "dependencies": {
-    "@mantine/core": "^4.2.4",
-    "@mantine/dates": "^4.2.4",
-    "@mantine/dropzone": "^4.2.4",
-    "@mantine/form": "^4.2.4",
-    "@mantine/hooks": "^4.2.4",
-    "@mantine/modals": "^4.2.4",
-    "@mantine/notifications": "^4.2.4",
-    "@mantine/prism": "^4.2.4",
-    "@mantine/rte": "^4.2.4",
-    "@mantine/spotlight": "^4.2.4",
-    "dayjs": "^1.11.2"
-  }
+  "dependencies": {}
 }
