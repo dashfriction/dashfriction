@@ -1,7 +1,7 @@
 import * as pulumi from "@pulumi/pulumi";
 import * as gcp from "@pulumi/gcp";
 
-// Modules
+// Modules imports
 import { projectModule } from "./src/project";
 import { storageModule } from "./src/storage";
 
