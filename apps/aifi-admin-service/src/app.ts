@@ -1,6 +1,6 @@
 import { fastify as Fastify, FastifyServerOptions } from 'fastify'
 
-export default (opts?: FastifyServerOptions) => {
+export const app = (opts?: FastifyServerOptions) => {
   const fastify = Fastify(opts)
 
   /* Your code here. Hello world example: */
@@ -11,3 +11,5 @@ export default (opts?: FastifyServerOptions) => {
 
   return fastify
 }
+
+export default app
