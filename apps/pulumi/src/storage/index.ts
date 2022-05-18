@@ -1,6 +1,6 @@
 import * as gcp from "@pulumi/gcp";
 
-export const storageModule = () => {
+export const storageServices = () => {
   // Create a GCP resource (Storage Bucket)
   const bucket = new gcp.storage.Bucket("my-bucket", {
     location: "US",
