@@ -13,10 +13,14 @@ name: "CodeQL"
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev ]
+    paths:
+      - './apps/aifi-admin-service/**/*'
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ main ]
+    branches: [ dev ]
+    paths:
+        - './apps/aifi-admin-service/**/*'
   schedule:
     - cron: '27 19 * * 3'
 
