@@ -19,7 +19,7 @@ This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It inclu
 
 ### Apps
 
-- `backend`: an [Express.js](https://expressjs.com/) Typescript app
+- `backend`: an [Fastify.js](https://fastify.io/) Typescript app
 - `client-admin`: an [React.js 18](https://reactjs.org/) Typescript app
 - `terraform`: [Terraform Infrastructure](https://www.terraform.io/) Google Cloud Platform hcl app
 - `terratest`: [Terratest](https://terratest.gruntwork.io/) Golang TF infrastructure testing app
